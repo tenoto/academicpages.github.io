@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "経歴"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学歴
 ======
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
