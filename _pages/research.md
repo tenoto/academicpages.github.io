@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "研究"
+title: "研究活動"
 permalink: /research/
 author_profile: true
 ---
 
-
-研究活動
 
 宇宙Ｘ線の超精密観測で挑む中性子星の極限物理
 -----
