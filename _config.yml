@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Teru Enoto"
+  name             : "榎戸 輝揚"
   avatar           : "profile_teruaki_enoto.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "teru_enoto"
   vine             :
   weibo            :
   xing             :
@@ -251,7 +251,8 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Japan # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
