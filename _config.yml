@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "榎戸 輝揚"
   avatar           : "profile_teruaki_enoto.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "X線天文学, 高エネルギー大気物理学"
   location         : "京都大学"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -171,9 +171,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: false
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -206,14 +206,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  - scope:
+#      path: ""
+#      type: teaching
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _publications
   - scope:
       path: ""
