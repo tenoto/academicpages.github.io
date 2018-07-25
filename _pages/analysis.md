@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "解析"
-permalink: /research/
+permalink: /analysis/
 author_profile: true
 ---
 
