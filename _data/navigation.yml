@@ -13,6 +13,9 @@ main:
   - title: "経歴"
     url: /cv/   
 
+  - title: "解析"
+    url: /analysis/       
+
   - title: "ブログ"
     url: /year-archive/
     
